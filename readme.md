@@ -1,2 +1,6 @@
-Welcome to fab lab qena
-this is a new message
+# Welcome to fab lab qena
+
+- This is a new message
+![new](pic.png)
+
+
