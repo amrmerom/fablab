@@ -1,3 +1,5 @@
+echo begin the push
 git add .
 git commit -m "next update"
 git push
+echo done pushing
